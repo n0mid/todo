@@ -1,0 +1,12 @@
+.pointer {
+  cursor: pointer;
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+
+.add-button {
+  width: 100%;
+  margin-top: 10px;
+}
